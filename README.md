@@ -18,6 +18,8 @@ Please note that afer running it might take a minute to load so try to press a k
 4. use the green button of pycharm in the main.py file </br>
 ### Some remarks:
 If you cant use python3.9 (or other version that supports types) </br>
- please delete all the types from the code </br>
- </br>
+#### You can always stop by clicking control+c and the graphs will be shown 
+some examples for boards are attached 
+please delete all the types from the code </br>
+ 
  ### Thank you!
