@@ -16,7 +16,6 @@ three options:
 Please note that afer running it might take a minute to load so try to press a key. </br>
 3. run "python main.py" command, work only if the "python" name saved in the computer as the path to the python3.9. </br>
 4. use the green button of pycharm in the main.py file </br>
- </br>
 ### Some remarks:
 If you cant use python3.9 (or other version that supports types) </br>
  please delete all the types from the code </br>
