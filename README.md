@@ -12,7 +12,7 @@ After you choose one of the following (down below), </br>
 you should enter your file path, and to enter 1 for regular mode , 2 for darwin mode , and 3 for lamark mode. </br>
 Dont worry the console will tell you when to insert the parameters.
 three options:
-1. run the .exe file : the exe file require input file , so we recommend to save the input file in the same directory as the exe and all you need is to write the name of the file, and then to select a running mode, otherwise, write the full path. </br>
+1. run the .exe file : you can download it from the releases on the right the exe file require input file , so we recommend to save the input file in the same directory as the exe and all you need is to write the name of the file, and then to select a running mode, otherwise, write the full path. </br>
 Please note that afer running it might take a minute to load so try to press a key. </br>
 3. run "python main.py" command, work only if the "python" name saved in the computer as the path to the python3.9. </br>
 4. use the green button of pycharm in the main.py file </br>
